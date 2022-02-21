@@ -1,4 +1,4 @@
-To execute the linuxwork.c file, log into your timberlea virtual machine and enter the following commands:
+To execute the linuxwork.c file, log into your linux (virtual) machine and enter the following commands:
 
 1. gcc -o shell linuxwork.c
 2. ./shell
